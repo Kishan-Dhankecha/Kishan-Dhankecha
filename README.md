@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/kishan-dhankecha/">
- <img src="https://activity-graph.herokuapp.com/graph?username=kishan-dhankecha&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=kishan-dhankecha&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" width="100%">
 </a>
 </p>
 
@@ -19,8 +19,8 @@ Developer dev = Developer(
 while(dev.isCoding()) {
   dev.listenToMusic(
     track : Song(
-      title : "Darasal - Atif aslam",
-      album : "Raabta"
+      title : "Subhanallah",
+      album : "Yeh Jawaani Hai Deewani"
     ),
   );
 }
