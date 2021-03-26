@@ -19,8 +19,8 @@ Developer dev = Developer(
 while(dev.isCoding()) {
   dev.listenToMusic(
     track : Song(
-      title : "Subhanallah",
-      album : "Yeh Jawaani Hai Deewani"
+      title : "Hum Aapki Aankhon Mein",
+      album : "Pyaasa"
     ),
   );
 }
