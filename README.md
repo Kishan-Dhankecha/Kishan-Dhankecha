@@ -15,15 +15,6 @@ Developer dev = Developer(
   langPref : 'Flutter',
   interests: ['Playing Minecraft', 'Music'],
 );
-
-while(dev.isCoding()) {
-  dev.listenToMusic(
-    track : Song(
-      title : "Hum Aapki Aankhon Mein",
-      album : "Pyaasa"
-    ),
-  );
-}
 ```
 
 # Quick Links
