@@ -8,12 +8,12 @@
 // Hello folks!
 
 Developer dev = Developer(
-  name : 'Kishan M. Dhankecha',
+  name : 'Kishan Dhankecha',
   pronouns: ['He', 'Him'],
   nationality: 'Indian',
   mail : 'dhankechakishan@gmail.com',
   langPref : 'Flutter',
-  interests: ['Playing Minecraft', 'Music'],
+  interests: ['Playing Minecraft', Listening Music'],
 );
 ```
 
