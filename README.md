@@ -60,7 +60,6 @@ Developer dev = Developer(
 
 [<img src="https://stackoverflow.com/users/flair/14212524.png?theme=dark" alt="Kishan Dhankecha StackOverflow"/>](https://stackoverflow.com/users/14212524/kishan-dhankecha)
 
-
 # Education
 
 | Course | School/University | Year of Passing | Score |
