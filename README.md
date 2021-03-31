@@ -12,8 +12,8 @@ Developer dev = Developer(
   pronouns: ['He', 'Him'],
   nationality: 'Indian',
   mail : 'dhankechakishan@gmail.com',
-  langPref : 'Flutter',
-  interests: ['Playing Minecraft', Listening Music'],
+  langPref : 'Flutter (Dart)',
+  interests: ['Playing Minecraft', 'Listening Music'],
 );
 ```
 
