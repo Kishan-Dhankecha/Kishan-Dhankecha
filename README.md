@@ -65,6 +65,8 @@ Developer dev = Developer(
 | Course | School/University | Year of Passing | Score |
 |:-:|:-:|:-:|:-:|
 | Bachelor of Commerce | Gujarat University | - | - |
+| Web Devlopment | Arena Animation | - | - |
+| Graphics Designing | Arena Animation | 2020 | 75% |
 | Higher Secondary Certification | N.V.S. Surat | 2018 | 86.06% |
 | Secondary School Certification | N.V.S. Surat | 2016 | 83% |
 
