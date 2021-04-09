@@ -1,9 +1,3 @@
-<p align="center">
-<a href="https://github.com/kishan-dhankecha/">
- <img src="https://activity-graph.herokuapp.com/graph?username=kishan-dhankecha&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" width="100%">
-</a>
-</p>
-
 ```dart
 // Hello folks!
 
