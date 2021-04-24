@@ -37,19 +37,6 @@ Developer dev = Developer(
 </table>
 
 
-# Experience
-
-<ul>
-  <li>
-    <a href="https://www.savyasachiinfotech.com/">Savyasachi Infotech</a> - 
-    <ul>
-      <li>
-        <b>Flutter Developer</b> - <b>Oct 2020 - Present</b>
-      </li>
-    </ul>
-  </li>
-</ul>
-
 # Stackoverflow
 
 [<img src="https://stackoverflow.com/users/flair/14212524.png?theme=dark" alt="Kishan Dhankecha StackOverflow"/>](https://stackoverflow.com/users/14212524/kishan-dhankecha)
